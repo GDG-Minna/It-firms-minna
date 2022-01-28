@@ -1,4 +1,4 @@
-I will recommend you download [typora.io](typora.io) to edit the md file if you are not good at editinng markdown. When pushing changes always use the dev branch.
+I will recommend you download [typora.io](https://typora.io/) to edit the md file if you are not good at editinng markdown. When pushing changes always use the dev branch.
 
 #### IT Firms in Minna
 
