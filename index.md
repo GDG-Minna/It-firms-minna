@@ -3,6 +3,7 @@ IT (SIWES) Firms in Minna" is an open-source project aimed at providing a compre
 
 ### CONTRIBUTION
 If you want to contribute, please read the instructions by clicking on this [link](https://jdlab.ng/ ).
+[Link to another page](./CONTRIBUTING.html)
 
 
 
