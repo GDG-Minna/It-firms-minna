@@ -1,9 +1,6 @@
-
-I will recommend you download [typora.io](https://typora.io/) to edit the md file if you are not good at editinng markdown. When pushing changes always use the develop branch.
-
 #### IT(SIWES) Firms in Minna
+IT (SIWES) Firms in Minna" is an open-source project aimed at providing a comprehensive and accessible directory of IT firms in Minna, Niger State. This project serves as a resource for students seeking industrial training (SIWES) placements and for anyone looking to connect with the local tech ecosystem. In collaboration with GDG Minna and OSCA Minna, the project fosters transparency and collaboration, empowering the community to explore opportunities and contribute to the growing tech landscape in Minna.
 
-Below is a list of technology firms accepting interns in Minna, Niger State.
 
 | Company                            | State | Location                                                     | Contact                  | Info                                                         |
 | ---------------------------------- | ----- | ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ |
